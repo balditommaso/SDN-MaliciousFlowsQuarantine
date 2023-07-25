@@ -5,7 +5,7 @@
 Once imported the project you can retrieve the * *unipi* * directory and place it inside the  following path:
 */home/student/floodlight/src/main/java/net/floodlightcontroller* 
 
-Then you can copy the * *mininet* * directory in the following path:
+Then you can copy the *mininet* directory in the following path:
 * /home/student *
 
 Now you are ready to run the application:
@@ -14,7 +14,7 @@ Now you are ready to run the application:
 ```
 sudo python mininet/topology.py
 ```
-2. from the * *floodlight*  directory you can type the following commands to start the controller:
+2. from the *floodlight*  directory you can type the following commands to start the controller:
 ```
 ant run
 ```
