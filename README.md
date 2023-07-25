@@ -3,10 +3,10 @@
 ## Set up
 
 Once imported the project you can retrieve the * *unipi* * directory and place it inside the  following path:
-* /home/student/floodlight/src/main/java/net/floodlightcontroller * 
+* /home/student/floodlight/src/main/java/net/floodlightcontroller 
 
 Then you can copy the *mininet* directory in the following path:
-* /home/student *
+* /home/student 
 
 Now you are ready to run the application:
 
